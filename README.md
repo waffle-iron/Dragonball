@@ -1,5 +1,10 @@
-[![PHPVersion](https://img.shields.io/badge/php-v7.0.11-brightgreen.svg)](https://dragonball.biturl.io)
-[![Dependecies](https://img.shields.io/badge/dependecies-up--to--date-blue.svg)](https://dragonball.biturl.io)
+<p align="center">
+
+        <img src="https://img.shields.io/badge/php-v7.0.11-brightgreen.svg" alt="php version">
+
+        <img src="https://img.shields.io/badge/dependecies-up--to--date-blue.svg" alt="dependecies">
+
+</p>
 # Dragonball
 A repository dedicated to issue tracking for [Dragonball](https://dragonball.biturl.io "Dragonball")
 
