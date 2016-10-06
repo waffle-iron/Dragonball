@@ -1,8 +1,8 @@
 <p align="center">
 
-        <img src="https://img.shields.io/badge/php-v7.0.11-brightgreen.svg" alt="php version">
+        <img src="assets/php-v7.0.11-brightgreen.svg" alt="php version">
 
-        <img src="https://img.shields.io/badge/dependecies-up--to--date-blue.svg" alt="dependecies">
+        <img src="assets/dependecies-up--to--date-blue.svg" alt="dependecies">
 
 </p>
 # Dragonball
